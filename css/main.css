@@ -6393,6 +6393,7 @@ label {
   color: #898989; }
 
 h1 {
+  padding: 3%;
   text-align: center;
   font-size: 60px; }
 
@@ -6410,4 +6411,48 @@ p {
 @media screen and (min-width: 1260px) {
   form {
     width: 50%;
-    float: left; } }
+    float: left; }
+  .lvl1 {
+    border: solid 2px #909390;
+    float: left;
+    width: 50%; }
+  .lvl2 {
+    border: solid 2px #909390;
+    float: left;
+    width: 50%; }
+  .lvl3 {
+    border: solid 2px #909390;
+    float: left;
+    width: 50%; }
+  .lvl4 {
+    border: solid 2px #909390;
+    float: left;
+    width: 50%;
+    padding-bottom: 6%; }
+  .gened {
+    border: solid 2px #909390;
+    float: right;
+    width: 50%; }
+  .elec {
+    border: solid 2px #909390;
+    float: left;
+    width: 50%;
+    padding-bottom: 3%; } }
+
+.lvl1 {
+  border: solid 2px #909390; }
+
+.lvl2 {
+  border: solid 2px #909390; }
+
+.lvl3 {
+  border: solid 2px #909390; }
+
+.lvl4 {
+  border: solid 2px #909390; }
+
+.gened {
+  border: solid 2px #909390; }
+
+.elec {
+  border: solid 2px #909390; }
