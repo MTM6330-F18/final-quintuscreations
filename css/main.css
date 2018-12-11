@@ -6344,6 +6344,28 @@ li.nav-item {
   color: #fff;
   background-color: #006341; }
 
+<<<<<<< HEAD
+.grid {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 20px; }
+
+.text, .text2 {
+  text-align: center; }
+
+.myimages {
+  width: 100%; }
+
+.margintop50 {
+  margin-top: 50px; }
+
+.pt-20 {
+  /* padding-top: 120px; */
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  justify-content: center; }
+=======
 fieldset {
   border: none;
   font-size: 45px; }
@@ -6411,6 +6433,7 @@ p {
 @media screen and (min-width: 1260px) {
   form {
     width: 50%;
+<<<<<<< HEAD
     float: left; }
   .lvl1 {
     border: solid 2px #909390;
@@ -6456,3 +6479,7 @@ p {
 
 .elec {
   border: solid 2px #909390; }
+=======
+    float: left; } }
+>>>>>>> ffbc67df077b414de8a5660a097c04a9b3f74adb
+>>>>>>> b8fd0ec67559b86a788c157306ff42f693037842
